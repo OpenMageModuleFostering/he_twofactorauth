@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/HE_TwoFactorAuth",
+    "type": "magento-module",
+    "license": "GPLv2",
+    "homepage": "",
+    "description": "Magento Two Factor Authentication Module",
+    "authors": [
+    {
+        "name": "Aric Watson",
+        "email": "awatson@nexcess.net"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
