@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/HE_TwoFactorAuth",
+    "name": "openmage-module-fostering\/he_twofactorauth",
     "type": "magento-module",
     "license": "GPLv2",
     "homepage": "",
